@@ -11,3 +11,6 @@
 1. The file gametest.py in the folder gamegymimplementation has code for a random agent along with the environment.
 2. The file render2048.py has the 2048 environment.
 3. The file randomagent.py has the random agent code in it. 
+
+# 2048 - Monte Carlo Methods
+1. The file mc2048_1.py in the folder gamegymimplementation has code for a basic implmentation for monte carlo method on game 2048.
