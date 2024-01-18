@@ -24,4 +24,9 @@ for game_num in range(10):
 
 '''So the 2 loops here represent the following
 The game_num loop represents the game we are playing
-The i loop represents the number of steps we are taking in a game.'''
+The i loop represents the number of steps we are taking in a game.
+
+The reward from the game is the sum of all the combinations done for the action taken
+The state we recieve contains all the 16 values from the grid. 
+
+One condition to improve the game can be to make the agent try to achieve the score >= 16 if 8 is the max number in the grid and repeat the same by making 16 as the max number and achieving 32.'''
